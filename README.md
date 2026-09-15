@@ -19,7 +19,7 @@ Tools that turn public registers and government data into something citizens, jo
 
 ## Invoicing & Accounting
 
-- **[fakturcho.com](https://www.fakturcho.com)** — Bulgarian-language web app for invoices, proformas, credit/debit notes and quotes under Bulgarian VAT rules (gapless sequential numbering, EUR/BGN dual amounts, Cyrillic PDF); pay-per-document pricing with a small starting credit. `Paid` `🇧🇬`
+- **[fakturcho.com](https://www.fakturcho.com)** — Bulgarian-language web app for invoices, proformas, credit/debit notes and quotes under Bulgarian VAT rules (gapless sequential numbering, amounts in EUR, Cyrillic PDF); pay-per-document pricing with a small starting credit. `Paid` `🇧🇬`
 
 ## How to add a listing
 
