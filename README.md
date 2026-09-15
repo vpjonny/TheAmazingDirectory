@@ -5,10 +5,22 @@ Makers and users are welcome to add listings through pull requests.
 
 ## Contents
 
+- [3D Printing & Engineering](#3d-printing--engineering)
+- [Civic Tech & Open Data](#civic-tech--open-data)
 - [Invoicing & Accounting](#invoicing--accounting)
 - [How to add a listing](#how-to-add-a-listing)
 - [Tags](#tags)
 - [License](#license)
+
+## 3D Printing & Engineering
+
+- **[EduFacturing](https://edufacturing.com/en/home/)** — Bulgarian 3D printing platform with engineering tools (calculators, calibration helpers, slicer references, defect diagnostics, CAD aids), printer configurators, a printer and material catalog, "The Big Book of 3D Printing", training and services. `Free tier` `🇧🇬`
+
+## Civic Tech & Open Data
+
+Tools that turn public registers and government data into something citizens, journalists and researchers can search and verify.
+
+- **[Media Radar](https://edufacturing.com/en/tools/media-radar/)** — Shows who funds Bulgarian media: search 272 outlets and 133 ad agencies across state advertising, EU publicity funding, election media packages and Art. 7a declarations, with ownership traced through the Commercial Register and every figure linked to its source. `Free` `🇧🇬`
 
 ## Invoicing & Accounting
 
