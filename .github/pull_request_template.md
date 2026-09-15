@@ -9,5 +9,5 @@
 
 - [ ] Title is `Add <Product name>`
 - [ ] Exactly one entry added, in the right section, in alphabetical order
-- [ ] Entry follows the format in [CONTRIBUTING.md](../CONTRIBUTING.md)
+- [ ] Entry follows the format in [CONTRIBUTING.md](https://github.com/vpjonny/theamazingdirectory/blob/main/CONTRIBUTING.md)
 - [ ] Link works and has no tracking or affiliate parameters
