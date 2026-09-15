@@ -5,16 +5,11 @@ Makers and users are welcome to add listings through pull requests.
 
 ## Contents
 
-- [3D Printing & Engineering](#3d-printing--engineering)
 - [Civic Tech & Open Data](#civic-tech--open-data)
 - [Invoicing & Accounting](#invoicing--accounting)
 - [How to add a listing](#how-to-add-a-listing)
 - [Tags](#tags)
 - [License](#license)
-
-## 3D Printing & Engineering
-
-- **[EduFacturing](https://edufacturing.com/en/home/)** — Bulgarian 3D printing platform with engineering tools (calculators, calibration helpers, slicer references, defect diagnostics, CAD aids), printer configurators, a printer and material catalog, "The Big Book of 3D Printing", training and services. `Free tier` `🇧🇬`
 
 ## Civic Tech & Open Data
 
