@@ -10,6 +10,7 @@ Makers and users are welcome to add listings through pull requests.
 - [Civic Tech & Open Data](#civic-tech--open-data)
 - [Home Services](#home-services)
 - [Invoicing & Accounting](#invoicing--accounting)
+- [Launch & Discovery Platforms](#launch--discovery-platforms)
 - [Productivity & File Tools](#productivity--file-tools)
 - [Sales Data & Enrichment](#sales-data--enrichment)
 - [How to add a listing](#how-to-add-a-listing)
@@ -45,6 +46,10 @@ Tools that turn public registers and government data into something citizens, jo
 ## Invoicing & Accounting
 
 - **[fakturcho.com](https://www.fakturcho.com)** — Web app for EU businesses to issue invoices, proformas, credit and debit notes and quotes that meet EU requirements, with EN 16931 e-invoicing, in Bulgarian, English, German, French, Italian, Polish and Romanian; 0.10 € per issued document with 1.00 € starting credit and no subscription. `Paid` `🇪🇺`
+
+## Launch & Discovery Platforms
+
+- **[SitePatent](https://sitepatent.com/)** — Launch directory where builders list newly launched startups, tools and online products; free listing with an account and a SitePatent badge on the maker's homepage (published after 7+ days), or a one-time paid listing from $19, live at once. `Free tier`
 
 ## Sales Data & Enrichment
 
