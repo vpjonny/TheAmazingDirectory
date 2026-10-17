@@ -50,6 +50,7 @@ Tools that turn public registers and government data into something citizens, jo
 ## Launch & Discovery Platforms
 
 - **[CodeTrendy](https://codetrendy.com/)** — Human-reviewed directory of new startups, SaaS and developer tools, each with its own profile page; free listing with an account and a CodeTrendy badge on the maker's homepage (published after 7+ days), or paid from $19 one-time, live at once. `Free tier`
+- **[MEDIAPRONET](https://mediapronet.com/)** — Launch directory where builders list newly shipped startups, tools and online products; free listing with an account and a MEDIAPRONET badge on the maker's homepage (published after 7+ days), or paid from $19 one-time, live at once. `Free tier`
 - **[SitePatent](https://sitepatent.com/)** — Launch directory where builders list newly launched startups, tools and online products; free listing with an account and a SitePatent badge on the maker's homepage (published after 7+ days), or a one-time paid listing from $19, live at once. `Free tier`
 
 ## Sales Data & Enrichment
