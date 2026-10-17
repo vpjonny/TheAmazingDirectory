@@ -7,6 +7,7 @@ Makers and users are welcome to add listings through pull requests.
 
 - [Affiliate & Partner Marketing](#affiliate--partner-marketing)
 - [AI Creative Tools](#ai-creative-tools)
+- [AI Developer Tools](#ai-developer-tools)
 - [Civic Tech & Open Data](#civic-tech--open-data)
 - [Home Services](#home-services)
 - [Invoicing & Accounting](#invoicing--accounting)
@@ -24,6 +25,10 @@ Makers and users are welcome to add listings through pull requests.
 ## AI Creative Tools
 
 - **[BabyVideo.ai](https://babyvideo.ai/)** — Creates playful future-baby previews and baby-themed photo videos from permitted photos for family entertainment, not medical or genetic prediction, with account-based credits and a limited check-in trial. `Paid`
+
+## AI Developer Tools
+
+- **[yylo](https://yylo.dev)** — Command-line orchestrator that runs coding agents on typed tasks with validation, merge and release-readiness gates, for developers shipping code with AI agents. `Open source` `Free`
 
 ## Civic Tech & Open Data
 
