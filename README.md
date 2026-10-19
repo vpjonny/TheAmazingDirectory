@@ -45,6 +45,7 @@ Tools that turn public registers and government data into something citizens, jo
 - **[Describe Image](https://describeimage.io/)** — AI image descriptions, alt-text drafts and OCR for content and accessibility workflows, with two free image generations per day and human review of extracted details. `Free tier`
 - **[FileOnTap](https://fileontap.com/)** — Browser-based image and PDF conversion that keeps files in the browser. `Free`
 - **[Fomrix](https://fomrix.com/)** — Browser-based 3D asset tools for designers and makers, with free STL/GLB/OBJ viewing and GLB-to-STL conversion alongside account-and-credit AI generation whose geometry needs review. `Free tier`
+- **[Glim](https://github.com/NeoPanic/Glim)** — macOS file viewer for reading Markdown, source code, PDF/Office previews and data files in one workspace, with basic UTF-8 editing. `Free` `Open source`
 - **[Online Lists Maker](https://onlinelistsmaker.com/)** — Free online list maker to create and share lists instantly with no signup. `Free`
 - **[PicCollages](https://piccollages.com/)** — Free browser photo collages and image stitching with local editing and direct export; optional account work-saving uploads photos. `Free`
 
