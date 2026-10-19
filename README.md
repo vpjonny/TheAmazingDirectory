@@ -15,6 +15,7 @@ Makers and users are welcome to add listings through pull requests.
 - [Market Research](#market-research)
 - [Productivity & File Tools](#productivity--file-tools)
 - [Sales Data & Enrichment](#sales-data--enrichment)
+- [Website Builders](#website-builders)
 - [How to add a listing](#how-to-add-a-listing)
 - [Tags](#tags)
 - [License](#license)
@@ -67,6 +68,10 @@ Tools that turn public registers and government data into something citizens, jo
 ## Sales Data & Enrichment
 
 - **[looot](https://looot.ai/)** — Pay-per-call API and MCP server for B2B data, covering work email and phone lookup, company and people enrichment and company search, with one key and a prepaid balance from $5 and no charge for failed calls. `Paid` `API`
+
+## Website Builders
+
+- **[Helmpages](https://helmpages.com/)** — Website service for independent professionals and small businesses that builds a site from a few simple answers and keeps it up to date from messages, with nothing published until the owner approves the change. `Paid`
 
 ## How to add a listing
 
