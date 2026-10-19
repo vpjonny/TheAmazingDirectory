@@ -12,6 +12,7 @@ Makers and users are welcome to add listings through pull requests.
 - [Home Services](#home-services)
 - [Invoicing & Accounting](#invoicing--accounting)
 - [Launch & Discovery Platforms](#launch--discovery-platforms)
+- [Market Research](#market-research)
 - [Productivity & File Tools](#productivity--file-tools)
 - [Sales Data & Enrichment](#sales-data--enrichment)
 - [How to add a listing](#how-to-add-a-listing)
@@ -57,6 +58,10 @@ Tools that turn public registers and government data into something citizens, jo
 - **[CodeTrendy](https://codetrendy.com/)** — Human-reviewed directory of new startups, SaaS and developer tools, each with its own profile page; free listing with an account and a CodeTrendy badge on the maker's homepage (published after 7+ days), or paid from $19 one-time, live at once. `Free tier`
 - **[MEDIAPRONET](https://mediapronet.com/)** — Launch directory where builders list newly shipped startups, tools and online products; free listing with an account and a MEDIAPRONET badge on the maker's homepage (published after 7+ days), or paid from $19 one-time, live at once. `Free tier`
 - **[SitePatent](https://sitepatent.com/)** — Launch directory where builders list newly launched startups, tools and online products; free listing with an account and a SitePatent badge on the maker's homepage (published after 7+ days), or a one-time paid listing from $19, live at once. `Free tier`
+
+## Market Research
+
+- **[Pulse](https://pulsecorp.co)** — AI-moderated market research platform where an AI moderator runs customer interviews by voice, video, text chat, phone call and WhatsApp for product, marketing and research teams. `Paid`
 
 ## Sales Data & Enrichment
 
