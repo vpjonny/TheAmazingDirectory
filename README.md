@@ -30,6 +30,7 @@ Makers and users are welcome to add listings through pull requests.
 
 ## AI Developer Tools
 
+- **[PlaceCall](https://voygr.tech/placecall/)** — Remote MCP server, REST API and agent skill for developers whose AI agents need to phone US businesses for reservations, appointments and quotes, returning the outcome, transcript and recording of each call. `Paid` `API` `🇺🇸`
 - **[yylo](https://yylo.dev)** — Command-line orchestrator that runs coding agents on typed tasks with validation, merge and release-readiness gates, for developers shipping code with AI agents. `Open source` `Free`
 
 ## Civic Tech & Open Data
