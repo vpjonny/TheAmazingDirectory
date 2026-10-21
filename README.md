@@ -45,6 +45,7 @@ Tools that turn public registers and government data into something citizens, jo
 
 ## Productivity & File Tools
 
+- **[CurlShot](https://curlshot.com/)** — Takes a screenshot of any web page as an image or PDF, in the browser or through an API, for developers and teams who need page captures; free plan with 100 screenshots a month. `Free tier` `API`
 - **[Describe Image](https://describeimage.io/)** — AI image descriptions, alt-text drafts and OCR for content and accessibility workflows, with two free image generations per day and human review of extracted details. `Free tier`
 - **[FileOnTap](https://fileontap.com/)** — Browser-based image and PDF conversion that keeps files in the browser. `Free`
 - **[Fomrix](https://fomrix.com/)** — Browser-based 3D asset tools for designers and makers, with free STL/GLB/OBJ viewing and GLB-to-STL conversion alongside account-and-credit AI generation whose geometry needs review. `Free tier`
