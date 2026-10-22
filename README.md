@@ -10,6 +10,7 @@ Makers and users are welcome to add listings through pull requests.
 - [AI Developer Tools](#ai-developer-tools)
 - [Civic Tech & Open Data](#civic-tech--open-data)
 - [Home Services](#home-services)
+- [Homeowner Planning Tools](#homeowner-planning-tools)
 - [Invoicing & Accounting](#invoicing--accounting)
 - [Launch & Discovery Platforms](#launch--discovery-platforms)
 - [Market Research](#market-research)
@@ -42,6 +43,10 @@ Tools that turn public registers and government data into something citizens, jo
 ## Home Services
 
 - **[majstor.bg](https://www.majstor.bg)** — Bulgarian marketplace where homeowners post a job for free, compare offers from verified local tradespeople and pay through the platform once they are satisfied with the work. `Free` `🇧🇬`
+
+## Homeowner Planning Tools
+
+- **[Roof Cost Data](https://roofcostdata.com/)** — Helps U.S. homeowners estimate roof replacement cost ranges and compare material, tear-off, local labor and written quote scope. `Free` `🇺🇸`
 
 ## Productivity & File Tools
 
