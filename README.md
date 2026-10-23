@@ -27,6 +27,7 @@ Makers and users are welcome to add listings through pull requests.
 ## AI Creative Tools
 
 - **[BabyVideo.ai](https://babyvideo.ai/)** — Creates playful future-baby previews and baby-themed photo videos from permitted photos for family entertainment, not medical or genetic prediction, with account-based credits and a limited check-in trial. `Paid`
+- **[ImagineYourBook](https://www.imagineyourbook.com/)** - AI book-drafting app for authors that outlines a whole book, writes it chapter by chapter, and exports to Word, EPUB and Markdown for the author to revise. `Paid`
 
 ## AI Developer Tools
 
