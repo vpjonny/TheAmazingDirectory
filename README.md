@@ -27,6 +27,7 @@ Makers and users are welcome to add listings through pull requests.
 ## AI Creative Tools
 
 - **[BabyVideo.ai](https://babyvideo.ai/)** — Creates playful future-baby previews and baby-themed photo videos from permitted photos for family entertainment, not medical or genetic prediction, with account-based credits and a limited check-in trial. `Paid`
+- **[MakeImg](https://makeimg.ai/)** — AI photo generator for creators that turns a text prompt or reference photo into a new image across 11 models, with free daily credits. `Free tier`
 
 ## AI Developer Tools
 
