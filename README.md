@@ -27,6 +27,7 @@ Makers and users are welcome to add listings through pull requests.
 ## AI Creative Tools
 
 - **[BabyVideo.ai](https://babyvideo.ai/)** — Creates playful future-baby previews and baby-themed photo videos from permitted photos for family entertainment, not medical or genetic prediction, with account-based credits and a limited check-in trial. `Paid`
+- **[Seedance Now](https://seedancenow.com/)** — Multi-model text-to-video and image-to-video studio (Seedance 2.5, Kling 4.0, Wan 3.0) for creators, up to 30s at 1080p, with starter credits on signup. `Paid`
 
 ## AI Developer Tools
 
