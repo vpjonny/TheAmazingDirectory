@@ -27,6 +27,7 @@ Makers and users are welcome to add listings through pull requests.
 ## AI Creative Tools
 
 - **[BabyVideo.ai](https://babyvideo.ai/)** — Creates playful future-baby previews and baby-themed photo videos from permitted photos for family entertainment, not medical or genetic prediction, with account-based credits and a limited check-in trial. `Paid`
+- **[Imagera](https://imagera.ai/)** — AI studio for images, video, voice and music for creators and marketers; Character IDs keep one face or product consistent across shots, and AI Smart Director turns one prompt into an edited multi-shot video. `Paid`
 - **[MakeImg](https://makeimg.ai/)** — AI photo generator for creators that turns a text prompt or reference photo into a new image across 11 models, with free daily credits. `Free tier`
 - **[Seedance Now](https://seedancenow.com/)** — Multi-model text-to-video and image-to-video studio (Seedance 2.5, Kling 4.0, Wan 3.0) for creators, up to 30s at 1080p, with starter credits on signup. `Paid`
 
@@ -34,6 +35,7 @@ Makers and users are welcome to add listings through pull requests.
 
 - **[agent-qa](https://vostride.com)** — Runs natural-language web, Android and iOS tests for software teams through CLI/MCP tools, with persistent memory and evidence-gated self-improvement; model and infrastructure costs are separate. `Self-hosted`
 - **[deed.page](https://deed.page)** — Static hosting for AI agents and developer scripts that publishes HTML or a folder with one HTTP PUT or a remote MCP server call and returns a live HTTPS URL. `Free tier` `API`
+- **[Imagera Code](https://imagera.ai/code)** — Terminal AI coding agent for developers that reads and edits the project, runs commands and tests, with Claude, GPT, Gemini and hundreds more models on one subscription. `Paid`
 - **[Jvlang AI Codex Usage Tracker](https://jvlangai.com/codex-reset)** — Compares manually recorded Codex allowance with elapsed weekly time, with a personal countdown and calendar export. `Free`
 
 - **[PlaceCall](https://voygr.tech/placecall/)** — Remote MCP server, REST API and agent skill for developers whose AI agents need to phone US businesses for reservations, appointments and quotes, returning the outcome, transcript and recording of each call. `Paid` `API` `🇺🇸`
