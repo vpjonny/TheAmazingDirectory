@@ -34,6 +34,8 @@ Makers and users are welcome to add listings through pull requests.
 
 - **[agent-qa](https://vostride.com)** — Runs natural-language web, Android and iOS tests for software teams through CLI/MCP tools, with persistent memory and evidence-gated self-improvement; model and infrastructure costs are separate. `Self-hosted`
 - **[deed.page](https://deed.page)** — Static hosting for AI agents and developer scripts that publishes HTML or a folder with one HTTP PUT or a remote MCP server call and returns a live HTTPS URL. `Free tier` `API`
+- **[Jvlang AI Codex Usage Tracker](https://jvlangai.com/codex-reset)** — Compares manually recorded Codex allowance with elapsed weekly time, with a personal countdown and calendar export. `Free`
+
 - **[PlaceCall](https://voygr.tech/placecall/)** — Remote MCP server, REST API and agent skill for developers whose AI agents need to phone US businesses for reservations, appointments and quotes, returning the outcome, transcript and recording of each call. `Paid` `API` `🇺🇸`
 - **[yylo](https://yylo.dev)** — Command-line orchestrator that runs coding agents on typed tasks with validation, merge and release-readiness gates, for developers shipping code with AI agents. `Open source` `Free`
 
