@@ -9,6 +9,7 @@ Makers and users are welcome to add listings through pull requests.
 - [AI Creative Tools](#ai-creative-tools)
 - [AI Developer Tools](#ai-developer-tools)
 - [Civic Tech & Open Data](#civic-tech--open-data)
+- [Gaming Tools](#gaming-tools)
 - [Home Services](#home-services)
 - [Invoicing & Accounting](#invoicing--accounting)
 - [Launch & Discovery Platforms](#launch--discovery-platforms)
@@ -44,6 +45,10 @@ Makers and users are welcome to add listings through pull requests.
 Tools that turn public registers and government data into something citizens, journalists and researchers can search and verify.
 
 - **[Media Radar](https://edufacturing.com/en/tools/media-radar/)** — Shows who funds Bulgarian media: search 272 outlets and 133 ad agencies across state advertising, EU publicity funding, election media packages and Art. 7a declarations, with ownership traced through the Commercial Register and every figure linked to its source. `Free` `🇧🇬`
+
+## Gaming Tools
+
+- **[AzerothSurvivors.app](https://azerothsurvivors.app/)** — Fan-made build planner for Aethus's Azeroth Survivors with talent, skill and equipment planning, browser favorites, editable sharing links and PNG export; core tools require no account. `Free`
 
 ## Home Services
 
