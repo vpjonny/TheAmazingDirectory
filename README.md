@@ -27,6 +27,7 @@ Makers and users are welcome to add listings through pull requests.
 ## AI Creative Tools
 
 - **[BabyVideo.ai](https://babyvideo.ai/)** — Creates playful future-baby previews and baby-themed photo videos from permitted photos for family entertainment, not medical or genetic prediction, with account-based credits and a limited check-in trial. `Paid`
+- **[H3 MiniMax](https://h3minimax.com/)** — Turns a text prompt or a photo into a short AI video with the MiniMax H3 model, for creators who want quick clips in the browser. `Paid`
 - **[MakeImg](https://makeimg.ai/)** — AI photo generator for creators that turns a text prompt or reference photo into a new image across 11 models, with free daily credits. `Free tier`
 - **[Seedance Now](https://seedancenow.com/)** — Multi-model text-to-video and image-to-video studio (Seedance 2.5, Kling 4.0, Wan 3.0) for creators, up to 30s at 1080p, with starter credits on signup. `Paid`
 
