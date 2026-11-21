@@ -51,6 +51,7 @@ Tools that turn public registers and government data into something citizens, jo
 ## Gaming Tools
 
 - **[AzerothSurvivors.app](https://azerothsurvivors.app/)** — Fan-made build planner for Aethus's Azeroth Survivors with talent, skill and equipment planning, browser favorites, editable sharing links and PNG export; core tools require no account. `Free`
+- **[PixelArtHive](https://pixelarthive.com/)** — Converts existing images to pixel art and upscales pixel graphics locally in the browser for game creators and designers. `Free`
 
 ## Home Services
 
