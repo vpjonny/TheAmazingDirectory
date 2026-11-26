@@ -9,6 +9,7 @@ Makers and users are welcome to add listings through pull requests.
 - [AI Creative Tools](#ai-creative-tools)
 - [AI Developer Tools](#ai-developer-tools)
 - [Civic Tech & Open Data](#civic-tech--open-data)
+- [Entertainment & Live Events](#entertainment--live-events)
 - [Gaming Tools](#gaming-tools)
 - [Home Services](#home-services)
 - [Invoicing & Accounting](#invoicing--accounting)
@@ -47,6 +48,10 @@ Makers and users are welcome to add listings through pull requests.
 Tools that turn public registers and government data into something citizens, journalists and researchers can search and verify.
 
 - **[Media Radar](https://edufacturing.com/en/tools/media-radar/)** — Shows who funds Bulgarian media: search 272 outlets and 133 ad agencies across state advertising, EU publicity funding, election media packages and Art. 7a declarations, with ownership traced through the Commercial Register and every figure linked to its source. `Free` `🇧🇬`
+
+## Entertainment & Live Events
+
+- **[StagePeek](https://stagepeek.live)** — Interactive 2D seating charts and 3D concert stage-view simulator covering 201 global arenas, domes, and stadiums across five languages, with free no-login browsing and paid zoom upgrades. `Free tier`
 
 ## Gaming Tools
 
