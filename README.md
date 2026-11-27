@@ -74,6 +74,7 @@ Tools that turn public registers and government data into something citizens, jo
 - **[Online Lists Maker](https://onlinelistsmaker.com/)** — Free online list maker to create and share lists instantly with no signup. `Free`
 - **[PDF Fan](https://pdf.fan/)** — Free browser tools for extracting selected PDF pages, converting photos to PDF, and organizing documents, with Spanish and Brazilian Portuguese interfaces. `Free`
 - **[PicCollages](https://piccollages.com/)** — Free browser photo collages and image stitching with local editing and direct export; optional account work-saving uploads photos. `Free`
+- **[TinyMast](https://tinymast.com/)** — Compresses JPG, PNG, WebP and GIF images to a per-file KB target, up to 100 files per batch, and compresses, merges, splits, OCRs and converts PDFs, with no account, no watermark and uploads deleted within 24 hours. `Free`
 
 ## Invoicing & Accounting
 
